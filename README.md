@@ -63,6 +63,7 @@ About
 
 ## Creators
 https://medium.com/@umutberkayunal/random-fans-nft-dapp-6f3a3d577d2c
+
 This project was made by
 
 Anıl Karaçay - https://github.com/anilkaracay
