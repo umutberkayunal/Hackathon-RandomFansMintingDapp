@@ -1,7 +1,6 @@
 # Place: 2nd
 # Rewards: 15000₺ worth of Bitcicoin
 # https://www.bitci.com/announcements/google-cloud-bitci-hackathon-sonuclari/
-# https://i.imgur.com/gAe8g6i.jpg
 
 # Random Fans NFT Minting dAPP
 
